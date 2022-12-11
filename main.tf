@@ -1,5 +1,5 @@
 output name {
-  value       = terraform.workspace
+  value       = terraform
   sensitive   = true
   description = "description"
   depends_on  = []
